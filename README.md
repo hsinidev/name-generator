@@ -9,7 +9,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-5.0.0-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css-3.0.0-cyan)](https://tailwindcss.com/)
 
-### 🚀 [LIVE DEMO: doodax.com](https://doodax.com)
+### 🚀 [LIVE DEMO: doodax.com](https://doodax.com/tools/name-generator/index.html)
 
 </div>
 
