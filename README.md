@@ -1,19 +1,52 @@
+<div align="center">
+# 🚀 Name Generator
+### *Modern, High-Performance JavaScript Solution & Developer Suite*
+
+<p align="center">
+  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
+  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
+  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
+  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+</p>
+
+![Doodax Banner](https://via.placeholder.com/1200x400.png?text=Doodax+Name+Generator)
+
+</div>
+
+---
+## 🌟 Executive Overview
+
+**Name Generator** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
+
+## ⚡ Key Highlights & Capabilities
+
+- **Scalable Architecture**: Modular, decoupled components adhering to clean code principles.
+- **Optimized Runtime**: Ultra-fast execution with minimal memory and CPU overhead.
+- **Developer Tooling**: Standardized linting, formatting, and rapid local iteration setup.
+- **Production Ready**: Built-in error resilience, validation, and structured logging.
+
+---
+## 🏗️ Architecture & Technology Stack
+
+- **Primary Language**: `TypeScript`
+- **Framework / Runtime**: `JavaScript`
+- **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
+- **License**: MIT Open Source Attribution
+
+## 📖 Deep-Dive Technical Documentation
+
 # Doodax - Professional Random Name Generator
 
 ![Doodax Banner](https://via.placeholder.com/1200x400.png?text=Doodax+Name+Generator)
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-[![React Version](https://img.shields.io/badge/react-19.0.0-blue)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-5.0.0-blue)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/tailwind_css-3.0.0-cyan)](https://tailwindcss.com/)
 
 ### 🚀 [LIVE DEMO: doodax.com](https://doodax.com/tools/name-generator/index.html)
 
 </div>
 
-**Doodax** is a high-performance, privacy-centric utility designed for developers, designers, and writers. It allows for the instant generation of bulk random names with customizable filters for gender and format. Built with modern React and TypeScript, it features a stunning, CSS-only animated galaxy background and a fully responsive glassmorphism UI.
 
 ---
 
@@ -22,7 +55,6 @@
 *   **Instant Bulk Generation:** Generate up to 50 names in milliseconds using optimized client-side logic.
 *   **Privacy First:** Zero server-side processing. All data lives and dies in the browser tab.
 *   **Customizable Filters:** Filter by Male, Female, or Neutral; output as Full Name, First Name, or Last Name.
-*   **Developer Friendly:** One-click copy-to-clipboard functionality formatted for easy pasting into code editors or Excel.
 *   **Immersive UX:** Features a custom CSS-animated multi-layered nebula and starfield background.
 *   **SEO Optimized:** Includes full JSON-LD Schema, sitemaps, and semantic HTML structure.
 
@@ -81,13 +113,67 @@ Contributions make the open-source community an amazing place to learn, inspire,
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact & Support
 
-*   **Developer:** HSINI MOHAMED
 *   **Website:** [doodax.com](https://doodax.com)
 *   **Email:** hsini.web@gmail.com
 *   **GitHub:** [hsinidev](https://github.com/hsinidev)
+
+---
+## 🚀 Quick Start & Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/hsinidev/name-generator.git
+cd name-generator
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Launch the Application
+```bash
+npm run dev
+```
+
+
+---
+
+## 👨‍💻 System Architect & Author
+
+<table align="center" style="border: none; background: transparent; width: 100%;">
+  <tr>
+    <td align="center" width="160" style="border: none; padding: 12px;">
+      <img src="https://avatars.githubusercontent.com/u/232697467?v=4" width="120" height="120" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(99,102,241,0.3); border: 2.5px solid #6366f1;" alt="Hsini Mohamed" />
+      <br /><br />
+      <b>Hsini Mohamed</b><br />
+      <sub>Morocco 🇲🇦</sub>
+    </td>
+    <td style="border: none; padding: 12px; vertical-align: middle;">
+      <h3 style="margin-top: 0;">🚀 System Architect & Full-Stack Engineer</h3>
+      <p style="font-size: 0.95rem; line-height: 1.6; color: #475569;">
+        Specializing in high-performance autonomous AI systems, deterministic multi-agent swarms, enterprise cloud architecture, and modern full-stack engineering.
+      </p>
+      <p>
+        <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-2563eb?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+        <a href="mailto:contact@hsini.dev"><img src="https://img.shields.io/badge/Email-contact@hsini.dev-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/GitHub-@hsinidev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://linkedin.com/in/hsinidev/"><img src="https://img.shields.io/badge/LinkedIn-hsinidev-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📄 License & Attribution
+
+This project is distributed under the **MIT License**. See [`LICENSE`](LICENSE) for complete terms.
+
+<div align="center">
+  <sub>⚡ Designed, architected, and maintained with engineering precision by <b><a href="https://hsini.dev">Hsini Mohamed</a></b>.</sub>
+</div>
