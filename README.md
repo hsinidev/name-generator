@@ -1,20 +1,22 @@
 <div align="center">
-# 🚀 Name Generator
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Name%20Generator&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Name Generator Header Banner" />
 
-![Doodax Banner](https://via.placeholder.com/1200x400.png?text=Doodax+Name+Generator)
+  <h1>🚀 Name Generator</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/name-generator"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Name Generator** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -27,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -34,94 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Doodax - Professional Random Name Generator
-
-![Doodax Banner](https://via.placeholder.com/1200x400.png?text=Doodax+Name+Generator)
-
-<div align="center">
-
-
-### 🚀 [LIVE DEMO: doodax.com](https://doodax.com/tools/name-generator/index.html)
-
-</div>
-
-
----
-
-## 🌟 Key Features
-
-*   **Instant Bulk Generation:** Generate up to 50 names in milliseconds using optimized client-side logic.
-*   **Privacy First:** Zero server-side processing. All data lives and dies in the browser tab.
-*   **Customizable Filters:** Filter by Male, Female, or Neutral; output as Full Name, First Name, or Last Name.
-*   **Immersive UX:** Features a custom CSS-animated multi-layered nebula and starfield background.
-*   **SEO Optimized:** Includes full JSON-LD Schema, sitemaps, and semantic HTML structure.
-
-## 📂 Project Structure
-
-```bash
-/
-├── components/          # React UI Components
-│   ├── NameGeneratorTool.tsx  # Core generator logic and UI
-│   └── ThemeLayout.tsx        # App shell, modal system, and background
-├── public/              # Static Assets
-│   ├── favicon.svg      # Doodax Brand Icon
-│   ├── index.html       # Entry point + Global CSS + Meta Tags
-│   ├── robots.txt       # Crawler directives
-│   └── sitemap.xml      # SEO Sitemap
-├── utils/               # Helper Functions
-│   ├── NameData.ts      # Data arrays and randomization algorithms
-│   └── SeoArticle.tsx   # SEO content component
-├── App.tsx              # Main Application Component
-├── index.tsx            # React Entry Point
-├── metadata.json        # Application Configuration
-└── README.md            # Documentation
-```
-
-## 🛠️ Tech Stack
-
-*   **Frontend Library:** React 19
-*   **Language:** TypeScript
-*   **Styling:** Tailwind CSS + Custom CSS Animations
-*   **Build Tool:** Vite (or similar modern bundler environment)
-
-## 🚀 Getting Started
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/hsinidev/doodax.git
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Run locally**
-    ```bash
-    npm run dev
-    ```
-
-## 🤝 Contributing
-
-Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-
-
-## 📞 Contact & Support
-
-*   **Website:** [doodax.com](https://doodax.com)
-*   **Email:** hsini.web@gmail.com
-*   **GitHub:** [hsinidev](https://github.com/hsinidev)
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
